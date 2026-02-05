@@ -34,7 +34,7 @@ Raw data → ETL → Analytical dataset → A/B analysis → Segmentation → Bu
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Delivery_Growth_Experiment_Analytics/
 │
@@ -49,7 +49,7 @@ Delivery_Growth_Experiment_Analytics/
 │
 └── README.md
 
-## ▶ How to Run
+## How to Run
 
 This project is designed to run in **Google Colab**.
 
@@ -65,7 +65,7 @@ Dependencies are installed inside each notebook.
 
 ---
 
-## 📊 Key Analyses
+## Key Analyses
 
 - User retention comparison
 - Purchase frequency impact
@@ -75,7 +75,7 @@ Dependencies are installed inside each notebook.
 
 ---
 
-## 💡 Business Insights
+## Business Insights
 
 The analysis highlights:
 
@@ -86,7 +86,7 @@ The analysis highlights:
 
 ---
 
-## ⚠ Assumptions & Limitations
+## Assumptions & Limitations
 
 - Financial modeling uses estimated promotional costs
 - Behavioral segments are simplified for demonstration
@@ -94,7 +94,7 @@ The analysis highlights:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Advanced causal inference methods
 - Dynamic segmentation models
@@ -103,7 +103,7 @@ The analysis highlights:
 
 ---
 
-## 👤 Author
+## Author
 
 Data experiment and analytics case study focused on scalable data workflows, statistical reasoning, and business impact.
 
