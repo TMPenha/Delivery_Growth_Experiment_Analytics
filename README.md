@@ -36,18 +36,21 @@ Raw data → ETL → Analytical dataset → A/B analysis → Segmentation → Bu
 
 ## Project Structure
 
+```
 Delivery_Growth_Experiment_Analytics/
 │
 ├── notebooks/
-│ ├── 01_etl_spark.ipynb → Data ingestion and preparation
-│ ├── 02_ab_analysis.ipynb → Experiment impact analysis
-│ ├── 03_segmentation.ipynb → Behavioral segmentation
-│ └── 04_business_insights.ipynb → Financial evaluation & strategy
+│   ├── 01_etl_spark.ipynb        → Data ingestion and preparation
+│   ├── 02_ab_analysis.ipynb      → Experiment impact analysis
+│   ├── 03_segmentation.ipynb     → Behavioral segmentation
+│   └── 04_business_insights.ipynb → Financial evaluation & strategy
 │
 ├── reports/
-│ └── final_report.pdf
+│   └── final_report.pdf
 │
 └── README.md
+```
+
 
 ## How to Run
 
